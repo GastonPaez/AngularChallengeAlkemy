@@ -1,0 +1,3 @@
+https://api.spoonacular.com/recipes/complexSearch
+
+https://spoonacular.com/food-api/docs#Search-Recipes-Complex
